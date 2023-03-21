@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @IceCode18. I like playing around codes.
-
+- 👋 Hi, I’m @IceCode18.
 
 <!---
 IceCode18/IceCode18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
